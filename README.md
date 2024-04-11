@@ -8,4 +8,4 @@
 [![Commits](https://github-readme-stats.vercel.app/api?username=detrax07&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple)]<br>
 > <img src="https://cdn.discordapp.com/attachments/866770718594564146/889566596346048612/dd.PNG"><br>
 > **Contact : detraxonytb@gmail.com**<br>
-> **I code in Python, HTML and CSS.**<br>
+> **I code in Python.**<br>

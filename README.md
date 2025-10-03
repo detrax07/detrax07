@@ -1,5 +1,4 @@
 # **D E T R A X**<br>
-> [![Visitor Count](https://profile-counter.glitch.me/{detrax}/count.svg)](https://www.youtube.com/channel/UCa3dFRJ3TVy6aKgN2WjXqWg)<br>
 > [![](https://komarev.com/ghpvc/?username=detrax07)](https://www.youtube.com/channel/UCa3dFRJ3TVy6aKgN2WjXqWg)
 > [![discord](https://discord.com/api/guilds/267624335836053506/widget.png)]
 > [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/channel/UCa3dFRJ3TVy6aKgN2WjXqWg)
